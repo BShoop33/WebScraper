@@ -1,0 +1,16 @@
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\bin\Debug\Scraper v1.exe.config
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\bin\Debug\Scraper v1.exe
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\bin\Debug\Scraper v1.pdb
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\bin\Debug\AngleSharp.dll
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\bin\Debug\AngleSharp.xml
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\obj\Debug\Scraper v1.csprojAssemblyReference.cache
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\obj\Debug\Scraper_v1.Form1.resources
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\obj\Debug\Scraper_v1.Properties.Resources.resources
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\obj\Debug\Scraper v1.csproj.GenerateResource.cache
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\obj\Debug\Scraper v1.csproj.CoreCompileInputs.cache
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\obj\Debug\Scraper v1.csproj.CopyComplete
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\obj\Debug\Scraper v1.exe
+C:\Users\braxt\workspace\Scraper v1\Scraper v1\obj\Debug\Scraper v1.pdb
